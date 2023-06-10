@@ -33,6 +33,7 @@ Use RAPIDS on the cloud.
 {bdg}`Google Cloud Platform`
 {bdg}`Microsoft Azure`
 {bdg}`IBM Cloud`
+{bdg}`Alibaba Cloud`
 ````
 
 ````{grid-item-card}
